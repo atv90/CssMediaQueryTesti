@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2037
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CssMediaQueryTesti", "CssMediaQueryTesti\CssMediaQueryTesti.csproj", "{D036AF4E-17E1-48D6-A782-5DCC6F01336B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D036AF4E-17E1-48D6-A782-5DCC6F01336B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D036AF4E-17E1-48D6-A782-5DCC6F01336B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D036AF4E-17E1-48D6-A782-5DCC6F01336B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D036AF4E-17E1-48D6-A782-5DCC6F01336B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4847BFC0-6B21-4A5F-98CD-C2525FFBD47D}
+	EndGlobalSection
+EndGlobal
